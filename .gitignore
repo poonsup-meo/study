@@ -1,0 +1,13 @@
+# Ignore Mac system files
+.DS_store
+
+# Ignore below folders
+data/*
+results/*
+
+# Ignore all vscode setting files
+*.vscode
+
+# Ignore juypter checkpoints files
+.ipynb_checkpoints
+
